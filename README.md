@@ -119,6 +119,9 @@ Testes unitários das funções de análise de sentimento implementadas com ML.N
 *A comunicação entre microserviços ocorre via RabbitMQ, garantindo escalabilidade e resiliência.
 A análise de sentimentos via ML.NET está integrada para avaliar comentários ou feedbacks, podendo ser expandida conforme o projeto.*
 
+![image](https://github.com/user-attachments/assets/847c08eb-e000-477b-9473-62eb7ef384f7)
+
+
 
 # Autores
 
