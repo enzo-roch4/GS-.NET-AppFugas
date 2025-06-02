@@ -1,3 +1,4 @@
+
 # GS-.NET-AppFugas
 # API de Rotas de Fuga para Desastres Naturais — GS-.NET
 
@@ -34,60 +35,77 @@ A documentação dos endpoints é apresentada via **Swagger** e o projeto conta 
 
 1. **Rodar RabbitMQ** (via Docker):
 
-```bash
-docker run -d --hostname rabbit --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
-Configurar Banco Oracle
+
+    docker run -d --hostname rabbit --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+
+## Configurar Banco Oracle
+
 Configure o esquema e atualize a string de conexão no arquivo appsettings.json do projeto API.
 
 Executar a API principal:
 
-bash
-Copiar
-cd API.NET
-dotnet run
+    cd API.NET
+    dotnet run
+
 Acesse a documentação Swagger em:
 https://localhost:7040/swagger/index.html
 
-Executar Microserviços (Producer e Consumer):
+
+![image](https://github.com/user-attachments/assets/d456a48e-13a1-4cea-ac63-af02065926bd)
+
+
+
+## Executar Microserviços (Producer e Consumer):
 
 Em terminais separados, navegue até as pastas dos microserviços e execute:
 
-bash
-Copiar
-cd MicroServices/ProducerService
-dotnet run
-bash
-Copiar
-cd MicroServices/ConsumerService
-dotnet run
-Documentação dos Endpoints
-Usuário
-POST /api/usuario/cadastrar
-Cadastra um novo usuário no sistema.
+   
+    cd MicroServices/ProducerService
+    dotnet run
+    
+    cd MicroServices/ConsumerService
+    dotnet run
 
-GET /api/usuario/buscar/{id}
-Retorna informações do usuário pelo ID.
+# # Documentação dos Endpoints
 
-PUT /api/usuario/atualizar/{id}
-Atualiza dados do usuário.
+## Usuário
 
-DELETE /api/usuario/apagar/{id}
-Remove usuário do sistema.
+    POST /api/usuario/cadastrar
 
-Rotas de Fuga
-POST /api/rotas/cadastrar
-Registra pontos A e B no mapa com descrição para rotas de fuga.
+*Cadastra um novo usuário no sistema.*
 
-GET /api/rotas/buscar/{id}
-Consulta rota pelo ID.
+    GET /api/usuario/buscar/{id}
 
-PUT /api/rotas/atualizar/{id}
-Atualiza informações da rota.
+*Retorna informações do usuário pelo ID*.
 
-DELETE /api/rotas/apagar/{id}
-Remove rota do sistema.
+    PUT /api/usuario/atualizar/{id}
 
-Cobertura de Testes
+*Atualiza dados do usuário.*
+
+    DELETE /api/usuario/apagar/{id}
+
+*Remove usuário do sistema.*
+
+# Rotas de Fuga
+
+    POST /api/rotas/cadastrar
+
+*Registra pontos A e B no mapa com descrição para rotas de fuga.*
+
+    GET /api/rotas/buscar/{id}
+
+*Consulta rota pelo ID.*
+
+    PUT /api/rotas/atualizar/{id}
+
+*Atualiza informações da rota.*
+
+    DELETE /api/rotas/apagar/{id}
+
+*Remove rota do sistema.*
+
+# Cobertura de Testes
+
 Este projeto conta com testes automatizados usando xUnit que cobrem:
 
 Validação dos endpoints REST da API
@@ -96,21 +114,16 @@ Testes de integração para os microserviços com RabbitMQ
 
 Testes unitários das funções de análise de sentimento implementadas com ML.NET
 
-Os testes podem ser executados via CLI com:
+# Observações Finais
 
-bash
-Copiar
-dotnet test
-Observações Finais
-A comunicação entre microserviços ocorre via RabbitMQ, garantindo escalabilidade e resiliência.
+*A comunicação entre microserviços ocorre via RabbitMQ, garantindo escalabilidade e resiliência.
+A análise de sentimentos via ML.NET está integrada para avaliar comentários ou feedbacks, podendo ser expandida conforme o projeto.*
 
-A análise de sentimentos via ML.NET está integrada para avaliar comentários ou feedbacks, podendo ser expandida conforme o projeto.
 
-A documentação Swagger facilita o entendimento e teste manual dos endpoints da API.
+# Autores
 
-Autores
-Enzo Franco - RM: 553643
-
+***Enzo Franco - RM: 553643
 Herbert Santos de Sousa - RM: 553227
+João Pedro Pereira - RM: 553698***
 
-João Pedro Pereira - RM: 553698
+
