@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\models\\pontorota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:models\\pontorota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\controllers\\pontorotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:controllers\\pontorotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\services\\authserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:services\\authserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\mlmodels\\sentimentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:mlmodels\\sentimentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\mlmodels\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:mlmodels\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\data\\sentiment-data.tsv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:data\\sentiment-data.tsv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\services\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:services\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|c:\\users\\enzof\\source\\repos\\gs-.net-csharp\\api.net\\api.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:api.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PontoRotaController.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\PontoRotaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PontoRotaController.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\PontoRotaController.cs",
+              "RelativeToolTip": "Controllers\\PontoRotaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:40:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PontoRota.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Models\\PontoRota.cs",
+              "RelativeDocumentMoniker": "Models\\PontoRota.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Models\\PontoRota.cs",
+              "RelativeToolTip": "Models\\PontoRota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:39:43.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:05:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Services\\AuthServiceClient.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServiceClient.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Services\\AuthServiceClient.cs",
+              "RelativeToolTip": "Services\\AuthServiceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:04:13.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SentimentData.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\MLModels\\SentimentData.cs",
+              "RelativeDocumentMoniker": "MLModels\\SentimentData.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\MLModels\\SentimentData.cs",
+              "RelativeToolTip": "MLModels\\SentimentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:32:31.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:19:13.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:03:07.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:02:11.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:07:15.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SentimentModel.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\MLModels\\SentimentModel.cs",
+              "RelativeDocumentMoniker": "MLModels\\SentimentModel.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\MLModels\\SentimentModel.cs",
+              "RelativeToolTip": "MLModels\\SentimentModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:32:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sentiment-data.tsv",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Data\\sentiment-data.tsv",
+              "RelativeDocumentMoniker": "Data\\sentiment-data.tsv",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Data\\sentiment-data.tsv",
+              "RelativeToolTip": "Data\\sentiment-data.tsv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T23:33:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SentimentController.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\SentimentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SentimentController.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Controllers\\SentimentController.cs",
+              "RelativeToolTip": "Controllers\\SentimentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:33:57.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "API.NET.csproj",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\API.NET.csproj",
+              "RelativeDocumentMoniker": "API.NET.csproj",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\API.NET.csproj",
+              "RelativeToolTip": "API.NET.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T15:25:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Services\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Services\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Services\\AppConfig.cs",
+              "RelativeToolTip": "Services\\AppConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:05:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T18:10:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T15:42:32.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\enzof\\source\\repos\\GS-.NET-Csharp\\API.NET\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:14:37.22Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\enzof\source\repos\GS-.NET-Csharp\MicroServices\ProducerService\obj\Debug\net8.0\ProducerService.csproj.AssemblyReference.cache
+C:\Users\enzof\source\repos\GS-.NET-Csharp\MicroServices\ProducerService\obj\Debug\net8.0\ProducerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzof\source\repos\GS-.NET-Csharp\MicroServices\ProducerService\obj\Debug\net8.0\ProducerService.AssemblyInfoInputs.cache
+C:\Users\enzof\source\repos\GS-.NET-Csharp\MicroServices\ProducerService\obj\Debug\net8.0\ProducerService.AssemblyInfo.cs
+C:\Users\enzof\source\repos\GS-.NET-Csharp\MicroServices\ProducerService\obj\Debug\net8.0\ProducerService.csproj.CoreCompileInputs.cache
+C:\Users\enzof\source\repos\GS-.NET-Csharp\MicroServices\ProducerService\obj\Debug\net8.0\ProducerService.sourcelink.json
