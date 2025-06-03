@@ -106,8 +106,6 @@ Em terminais separados, navegue até as pastas dos microserviços e execute:
 
 # Cobertura de Testes
 
-Este projeto conta com testes automatizados usando xUnit que cobrem:
-
 Validação dos endpoints REST da API
 
 Testes de integração para os microserviços com RabbitMQ
