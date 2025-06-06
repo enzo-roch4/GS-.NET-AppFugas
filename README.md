@@ -88,19 +88,19 @@ Em terminais separados, navegue até as pastas dos microserviços e execute:
 
 # Rotas de Fuga
 
-    POST /api/rotas/cadastrar
+    POST /api/PontoRota/cadastrar
 
 *Registra pontos A e B no mapa com descrição para rotas de fuga.*
 
-    GET /api/rotas/buscar/{id}
+    GET /api/PontoRota/buscar/{id}
 
 *Consulta rota pelo ID.*
 
-    PUT /api/rotas/atualizar/{id}
+    PUT /api/PontoRota/atualizar/{id}
 
 *Atualiza informações da rota.*
 
-    DELETE /api/rotas/apagar/{id}
+    DELETE /api/PontoRota/apagar/{id}
 
 *Remove rota do sistema.*
 
