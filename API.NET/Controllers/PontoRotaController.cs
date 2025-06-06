@@ -1,4 +1,4 @@
-﻿using API.NET.Data;
+using API.NET.Data;
 using API.NET.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -16,13 +16,15 @@ public class PontoRotaController : ControllerBase
         _context = context;
     }
 
-    [HttpGet]
+    // GET: api/PontoRota/buscar
+    [HttpGet("buscar")]
     public async Task<ActionResult<IEnumerable<PontoRota>>> Get()
     {
         return await _context.PontoRota.ToListAsync();
     }
 
-    [HttpPost]
+    // POST: api/PontoRota/cadastrar
+    [HttpPost("cadastrar")]
     public async Task<ActionResult<PontoRota>> Post([FromBody] PontoRota ponto)
     {
         _context.PontoRota.Add(ponto);
@@ -30,7 +32,8 @@ public class PontoRotaController : ControllerBase
         return CreatedAtAction(nameof(Get), new { id = ponto.Id }, ponto);
     }
 
-    [HttpPut("{id}")]
+    // PUT: api/PontoRota/atualizar/{id}
+    [HttpPut("atualizar/{id}")]
     public async Task<IActionResult> Put(int id, [FromBody] PontoRota ponto)
     {
         if (id != ponto.Id)
@@ -50,7 +53,8 @@ public class PontoRotaController : ControllerBase
         return NoContent();
     }
 
-    [HttpDelete("{id}")]
+    // DELETE: api/PontoRota/apagar/{id}
+    [HttpDelete("apagar/{id}")]
     public async Task<IActionResult> Delete(int id)
     {
         var ponto = await _context.PontoRota.FindAsync(id);
