@@ -50,8 +50,8 @@ Executar a API principal:
 Acesse a documentação Swagger em:
 https://localhost:7040/swagger/index.html
 
+![image](https://github.com/user-attachments/assets/d3641501-e602-482e-b5e1-9a7981df7908)
 
-![image](https://github.com/user-attachments/assets/d456a48e-13a1-4cea-ac63-af02065926bd)
 
 
 
